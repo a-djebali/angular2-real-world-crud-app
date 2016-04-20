@@ -1,1 +1,1 @@
-# angular2-course
+# Angular 2 Real World CRUD app
